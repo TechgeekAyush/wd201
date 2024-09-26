@@ -1,4 +1,4 @@
-const todoList = require('../todo'); // Adjust the path based on your file structure
+const todoList = require('../todo');
 
 describe('Todo List Tests', () => {
   let todos;
